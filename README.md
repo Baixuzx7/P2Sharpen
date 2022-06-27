@@ -4,7 +4,7 @@ Code of P2Sharpen: A progressive pansharpening network with deep spectral transf
 #### Running environment :<br>  
 python=3.8, pytorch-gpu=1.7.1, matlab = 2018a.  
   
-#### Preparation: <br>     
+#### Preparation: <br>  
 $\qquad$$\qquad$    [-] Construct the train, validation, test dataset according to the Wald protocol.  
 $\qquad$$\qquad$    [-] Put the all the dataset in the root directory, namely TrainFolder, ValidFolder and TestFolder.  
 $\qquad$$\qquad$    [-] In each directory, there are four subdirectories, namely pan_label/ ms_label/ pan/ ms/  
