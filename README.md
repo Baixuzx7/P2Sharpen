@@ -1,7 +1,7 @@
 # P2Sharpen  
 Code of P2Sharpen: A progressive pansharpening network with deep spectral transformation.  
   
-#### running environment :<br>  
+#### Running environment :<br>  
 python=3.8, pytorch-gpu=1.7.1, matlab = 2018a.  
   
 #### Preparation: <br>     
