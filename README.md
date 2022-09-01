@@ -26,5 +26,5 @@ python=3.8, pytorch-gpu=1.7.1, matlab = 2018a.
 
 #### To test :<br>  
 
-* Running the "fusionpredict.py" to generate the pansharpening results.  <br>
-* Open the Matlab and running the file ".\Evalution\FusionEval.m".  <br>
+* Run the "fusionpredict.py" to generate the pansharpening results.  <br>
+* Open the Matlab and run the file ".\Evalution\FusionEval.m".  <br>
